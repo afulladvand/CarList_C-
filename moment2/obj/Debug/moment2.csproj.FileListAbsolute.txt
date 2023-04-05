@@ -1,0 +1,8 @@
+C:\Users\afull\Desktop\Astar\programmiring2\moment2\moment2\bin\Debug\moment2.exe.config
+C:\Users\afull\Desktop\Astar\programmiring2\moment2\moment2\bin\Debug\moment2.exe
+C:\Users\afull\Desktop\Astar\programmiring2\moment2\moment2\bin\Debug\moment2.pdb
+C:\Users\afull\Desktop\Astar\programmiring2\moment2\moment2\obj\Debug\moment2.csproj.AssemblyReference.cache
+C:\Users\afull\Desktop\Astar\programmiring2\moment2\moment2\obj\Debug\moment2.csproj.SuggestedBindingRedirects.cache
+C:\Users\afull\Desktop\Astar\programmiring2\moment2\moment2\obj\Debug\moment2.csproj.CoreCompileInputs.cache
+C:\Users\afull\Desktop\Astar\programmiring2\moment2\moment2\obj\Debug\moment2.exe
+C:\Users\afull\Desktop\Astar\programmiring2\moment2\moment2\obj\Debug\moment2.pdb
